@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a95e1a2a3324707",
+        "id": "b365751642671b78",
         "type": "tabs",
         "children": [
           {
-            "id": "fb22a526b8d9ee46",
+            "id": "046211b2f3667495",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,17 +24,17 @@
         ]
       },
       {
-        "id": "2551e5b255e85355",
+        "id": "795e6037b702d6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "c67067e035c06b3d",
+            "id": "1be41c233ca2ef08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "markdown学习.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,12 +94,12 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "efd1c7b812b4b5ea",
@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "markdown学习 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -200,17 +199,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "7253ea7568a2d859",
+  "active": "046211b2f3667495",
   "lastOpenFiles": [
+    "markdown学习.md",
     "1",
     "未命名.canvas",
     "python学习.md",
     "未命名.base",
-    "markdown学习.md",
     "欢迎.md",
     "未命名 1.base",
     "2026-03-05.md"
