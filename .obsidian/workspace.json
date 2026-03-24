@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "损失",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "c70de46066434404",
+  "active": "7253ea7568a2d859",
   "lastOpenFiles": [
     "未命名 1.base",
     "markdown学习.md",
